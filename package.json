@@ -10,5 +10,10 @@
   },
   "dependencies": {
     "astro": "^5.16.5"
+  },
+  "devDependencies": {
+    "@unocss/preset-attributify": "^66.5.10",
+    "@unocss/reset": "^66.5.10",
+    "unocss": "^66.5.10"
   }
 }
